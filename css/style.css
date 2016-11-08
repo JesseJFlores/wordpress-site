@@ -1,0 +1,301 @@
+header {
+  background-color: #118bc0;
+  height: 60px;
+  overflow: hidden;
+
+}
+
+.logo img {
+  float: left;
+  padding-left: 20px;
+}
+
+.logo a {
+  float: left;
+  text-decoration: none;
+  display: inline-block;
+  padding: 20px;
+  color: white;
+
+}
+
+.menu {
+  background-color: #006ea1;
+  float: right;
+  height: 60px;
+
+}
+
+.menu a {
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+  padding: 20px;
+}
+
+.hero {
+  text-align: center;
+  color: white;
+  background-color: #344051;
+  padding-top: 5px;
+  overflow: hidden;
+  background-image: url("../assets/crowd.jpg");
+  background-size: cover;
+}
+
+.hero p {
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.button1 {
+  margin-bottom: 250px;
+}
+
+.button1 a {
+  text-decoration: none;
+  background-color: #118bc0;
+  color: white;
+  font-size: 25px;
+  padding: 10px 20px;
+  border: 5px solid rgba(0,0,0,0.5);
+}
+
+.down-arrow {
+  margin-bottom: 110px;
+}
+
+.tablet img {
+  position: relative;
+  right: 110px;
+  top: 57px;
+}
+
+.tablet h3 {
+  position: relative;
+  bottom: 12px;
+  right: 5px;
+}
+
+.tablet p {
+  position: relative;
+  left: 32px;
+  bottom: 25px;
+  font-size: 15px;
+}
+
+.pressed img {
+  position: relative;
+  right: 110px;
+  top: 57px;
+}
+
+.pressed h3 {
+  position: relative;
+  bottom: 12px;
+  right: 5px;
+}
+
+.pressed p {
+  position: relative;
+  left: 42px;
+  bottom: 25px;
+  font-size: 15px;
+}
+
+.hundreds img {
+  position: relative;
+  right: 110px;
+  top: 57px;
+}
+
+.hundreds h3 {
+  position: relative;
+  bottom: 12px;
+  right: 22px;
+}
+
+.hundreds p {
+  position: relative;
+  left: -4px;
+  bottom: 25px;
+  font-size: 15px;
+}
+
+.section {
+  background-color: #E8F0F5;
+  color: #748190;
+  text-align: center;
+  font-size: 25px;
+  padding-top: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-bottom: 5px;
+}
+
+.lightgrey-container {
+  background-color: #A6A6A6;
+  padding: 15px 15px 15px 15px;;
+
+}
+
+.section1 {
+  text-align: center;
+  background-color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+}
+
+.section1 h2 {
+  color: #006ea1;
+}
+
+.lightbulb {
+  background-color: #d1d3d7;
+  padding: 10px;
+  margin-left: 150px;
+  margin-right: 150px;
+  border-radius: 50%;
+}
+
+.cloud {
+  background-color: #d1d3d7;
+  padding: 10px;
+  margin-left: 150px;
+  margin-right: 150px;
+  border-radius: 50%;
+}
+
+.code {
+  background-color: #d1d3d7;
+  padding: 10px;
+  margin-left: 150px;
+  margin-right: 150px;
+  border-radius: 50%;
+}
+
+.comments {
+  background-color: #d1d3d7;
+  padding: 10px;
+  margin-left: 150px;
+  margin-right: 150px;
+  border-radius: 50%;
+}
+
+.gift {
+  background-color: #d1d3d7;
+  padding: 10px;
+  margin-left: 150px;
+  margin-right: 150px;
+  border-radius: 50%;
+}
+
+.globe {
+  background-color: #d1d3d7;
+  padding: 10px;
+  margin-left: 150px;
+  margin-right: 150px;
+  border-radius: 50%;
+}
+
+.section2 {
+  text-align: center;
+  background-color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+}
+
+.section2 h2 {
+  color: #006ea1;
+}
+
+.section3 {
+  text-align: center;
+  background-color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+}
+
+.section3 h2 {
+  color: #006ea1;
+}
+
+.section4 {
+  text-align: center;
+  background-color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+}
+
+.section4 h2 {
+  color: #006ea1;
+}
+
+.section5 {
+  text-align: center;
+  background-color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+}
+
+.section5 h2 {
+  color: #006ea1;
+}
+
+.section6 {
+  text-align: center;
+  background-color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+}
+
+.section6 h2 {
+  color: #006ea1;
+}
+
+.powers {
+  background-color: #E8F0F5;
+  color: #748190;
+  text-align: center;
+  font-size: 23px;
+  padding-top: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
+  padding-bottom: 25px;
+  /*margin-bottom: 20px;*/
+}
+
+.powers a {
+  text-decoration: none;
+  background-color: #118bc0;
+  color: white;
+  font-size: 25px;
+  padding: 10px 20px;
+
+}
+
+footer {
+  background-color: black;
+  text-align: center;
+  overflow: hidden;
+  padding: 15px;
+}
+
+footer a {
+  text-decoration: none;
+  display: inline-block;
+  color: white;
+  font-size: 12px;
+  padding:5px;
+}
+
+footer img {
+  margin-top: 10px;
+  height: 25px;
+}
