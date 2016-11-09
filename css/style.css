@@ -8,6 +8,8 @@ header {
 .logo img {
   float: left;
   padding-left: 20px;
+  height: 50px;
+  padding-top: 5px;
 }
 
 .logo a {
@@ -37,7 +39,7 @@ header {
   text-align: center;
   color: white;
   background-color: #344051;
-  padding-top: 5px;
+  padding-top: 75px;
   overflow: hidden;
   background-image: url("../assets/crowd.jpg");
   background-size: cover;
@@ -112,7 +114,7 @@ header {
 .hundreds h3 {
   position: relative;
   bottom: 12px;
-  right: 22px;
+  left: 16px;
 }
 
 .hundreds p {
